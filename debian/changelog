@@ -1,3 +1,9 @@
+plymouth-theme-nhos-gnome (0.1.9) xenial; urgency=low
+
+  * Editted plymouth text info
+
+ -- Rob Dyke (robdykedotcom) <robdyke@gmail.com>  Wed, 11 Oct 2017 22:32:00 +0000
+
 plymouth-theme-nhsbuntu-gnome (0.1.8) xenial; urgency=low
 
   * Editted plymouth text info
