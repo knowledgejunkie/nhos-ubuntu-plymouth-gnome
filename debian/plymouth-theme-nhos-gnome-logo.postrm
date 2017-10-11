@@ -30,7 +30,7 @@
 case "$1" in
     remove)
 	update-alternatives \
-		--remove default.plymouth /usr/share/plymouth/themes/nhsbuntu-gnome-logo/nhsbuntu-gnome-logo.plymouth
+		--remove default.plymouth /usr/share/plymouth/themes/nhos-gnome-logo/nhos-gnome-logo.plymouth
 
 	if which update-initramfs >/dev/null 2>&1
 	then

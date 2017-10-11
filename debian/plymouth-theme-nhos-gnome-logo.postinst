@@ -20,9 +20,9 @@ case "$1" in
     configure)
 	update-alternatives \
 		--install /usr/share/plymouth/themes/default.plymouth default.plymouth \
-		/usr/share/plymouth/themes/nhsbuntu-gnome-logo/nhsbuntu-gnome-logo.plymouth 150 \
+		/usr/share/plymouth/themes/nhos-gnome-logo/nhos-gnome-logo.plymouth 150 \
 		--slave /usr/share/plymouth/themes/default.grub default.plymouth.grub \
-		/usr/share/plymouth/themes/nhsbuntu-gnome-logo/nhsbuntu-gnome-logo.grub
+		/usr/share/plymouth/themes/nhos-gnome-logo/nhos-gnome-logo.grub
 
 	if which update-initramfs >/dev/null 2>&1
 	then

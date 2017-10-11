@@ -28,14 +28,14 @@ case "$1" in
 	rmdir -p --ignore-fail-on-non-empty /lib/plymouth/ || true
 
 	sed -re \
-		"/\[nhsbuntu-text\]/ {
+		"/\[ubuntu-text\]/ {
 			N;
-			s/(title=NHSbuntu GNOME ).*\$/\1$(lsb_release -rs)/
-		}" /usr/share/plymouth/themes/nhsbuntu-gnome-text/nhsbuntu-gnome-text.plymouth.in \
-			> /usr/share/plymouth/themes/nhsbuntu-gnome-text/nhsbuntu-gnome-text.plymouth
+			s/(title=NHoS ).*\$/\1$(lsb_release -rs)/
+		}" /usr/share/plymouth/themes/nhos-gnome-text/nhos-gnome-text.plymouth.in \
+			> /usr/share/plymouth/themes/nhos-gnome-text/nhos-gnome-text.plymouth
 	update-alternatives \
 		--install /usr/share/plymouth/themes/text.plymouth text.plymouth \
-		/usr/share/plymouth/themes/nhsbuntu-gnome-text/nhsbuntu-gnome-text.plymouth 65
+		/usr/share/plymouth/themes/nhos-gnome-text/nhos-gnome-text.plymouth 65
 
 	if which update-initramfs >/dev/null 2>&1
 	then

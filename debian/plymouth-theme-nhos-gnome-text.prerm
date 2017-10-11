@@ -4,9 +4,9 @@ set -e
 
 if [ "x$1" = xremove ]; then
 	update-alternatives \
-		--remove text.plymouth /usr/share/plymouth/themes/nhsbuntu-gnome-text/nhsbuntu-gnome-text.plymouth
+		--remove text.plymouth /usr/share/plymouth/themes/nhos-gnome-text/nhos-gnome-text.plymouth
 
-	rm -f /usr/share/plymouth/themes/nhsbuntu-gnome-text/nhsbuntu-gnome-text.plymouth
+	rm -f /usr/share/plymouth/themes/nhos-gnome-text/nhos-gnome-text.plymouth
 fi
 
 #DEBHELPER#
