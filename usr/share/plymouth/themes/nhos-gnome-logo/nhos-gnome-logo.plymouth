@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=NHoS GNOME Logo
+Description=A theme that features an animated NHoS GNOME logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/nhos-gnome-logo
+ScriptFile=/usr/share/plymouth/themes/nhos-gnome-logo/nhos-gnome-logo.script
