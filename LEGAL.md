@@ -1,6 +1,6 @@
 Legal Notices
 
-NHSbuntu is a community initiative by Rob Dyke, Dr Marcus Baw and Gary Kennington. It was created to help reduce or remove barriers to adoption of open source technology in the NHS.
+NHoS is a community initiative by Rob Dyke, Dr Marcus Baw and Gary Kennington. It was created to help reduce or remove barriers to adoption of open source technology in the NHS.
 
 At the time of writing, this project is in receipt of grant funding from Apperta Foundation a not-for-profit community interest company supported by NHS England and NHS Digital (HSCIC) led by clinicians to promote open systems and standards for digital health and social care.
 
@@ -13,7 +13,7 @@ Ubuntu and Canonical are registered trademarks of Canonical Ltd.
 
 Disclaimer
 
-This package, the NHSbuntu website and all information, products and services on it are provided on an “as is” basis, without warranty of any kind, either express or implied. Your use of this parkage, the website and artifacts downloaded is at your own risk.
+This package, the NHoS website and all information, products and services on it are provided on an “as is” basis, without warranty of any kind, either express or implied. Your use of this parkage, the website and artifacts downloaded is at your own risk.
 
 Rob Dyke, Dr Marcus Baw, Gary Kennington, Neova Health LLP, and Open Health Hub CIC disclaim all warranties, express or implied, including without limitation, warranties of merchantability and fitness for a particular purpose.
 

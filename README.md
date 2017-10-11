@@ -1,7 +1,7 @@
 # About
-These packages provide plymouth theme for NHSbuntu
+This package provides an NHoS theme for the plymouth bootloader
 
-These themes are based on plymouth-theme-ubuntu-gnome-logo/text provided by ubuntu-gnome-default-settings
+This theme is based on plymouth-theme-ubuntu-gnome-logo/text provided by ubuntu-gnome-default-settings
 
 Copyright:
 * Portions Copyright (C) 2011 Canonical Ltd
