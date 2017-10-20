@@ -1,3 +1,9 @@
+plymouth-theme-nhos-gnome (0.2.0) xenial; urgency=low
+
+  * NHoS theme for Ubuntu GNOME
+
+ -- Rob Dyke (robdykedotcom) <robdyke@gmail.com>  Wed, 21 Oct 2017 00:01:00 +0000
+
 plymouth-theme-nhos-gnome (0.1.9) xenial; urgency=low
 
   * Editted plymouth text info
