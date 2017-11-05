@@ -1,3 +1,9 @@
+plymouth-theme-nhos-gnome (0.2.1) xenial; urgency=low
+
+  * Version bump
+
+ -- Rob Dyke (robdykedotcom) <robdyke@gmail.com>  Sun, 5 Nov 2017 19:14:00 +0000
+
 plymouth-theme-nhos-gnome (0.2.0) xenial; urgency=low
 
   * NHoS theme for Ubuntu GNOME
